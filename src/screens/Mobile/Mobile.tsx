@@ -56,20 +56,20 @@ export const Mobile = (): JSX.Element => {
     <Container maxWidth="lg" sx={{ backgroundColor: "#fafdfc", padding: "90px 0" }}>
       <Box display="flex" justifyContent="space-between" alignItems="center" paddingY={2}>
         <Box display="flex" alignItems="center">
-          <img src="/img/image.svg" alt="Img" style={{ width: 16, height: 34 }} /> _
+          <img src="./img/image.svg" alt="Img" style={{ width: 16, height: 34 }} /> _
           UCR & Coursera Certificates
-          {/* <img src="/img/logo-name.svg" alt="Logo name" style={{ width: 136, height: 22, marginLeft: 8 }} />e */}
+          {/* <img src="./img/logo-name.svg" alt="Logo name" style={{ width: 136, height: 22, marginLeft: 8 }} />e */}
         </Box>promo icons here
         <IconButton>
           <MenuIcon />
         </IconButton>
       </Box>
       <GradientBox>
-        <Avatar src="/img/brownDude.png" sx={{ width: 115, height: 115, margin: "0 auto" }} />
+        <Avatar src="./img/brownDude.png" sx={{ width: 115, height: 115, margin: "0 auto" }} />
         <Typography variant="h1" sx={{ fontSize: 44, fontWeight: "bold", color: "defaultgray-900" }}>
           Hello, I'm Jason
         </Typography>
-        {/* <img src="/img/desenvolvo-ideias-e-ajudo-a-construir-um-mundo-melhor-atrav-s-do.png" alt="Desenvolvo ideias e" style={{ width: "100%" }} /> */}
+        {/* <img src="./img/desenvolvo-ideias-e-ajudo-a-construir-um-mundo-melhor-atrav-s-do.png" alt="Desenvolvo ideias e" style={{ width: "100%" }} /> */}
         {/* <textarea title="Intro" placeholder="I have lots of projects you can look up in my github"></textarea> */}
         {/* <TextField className="text-info" fullWidth multiline placeholder={'I have lots of projects you can look up in my github'} variant="outlined" /> */}
         {/* <TextField className="text-info" fullWidth multiline placeholder={placeholder} variant="outlined" /> */}
@@ -106,7 +106,7 @@ export const Mobile = (): JSX.Element => {
                 React
               </Button>
             </Box>
-            <img src="/img/DevMesh.png" alt="Image" style={{ width: "100%", height: 213, objectFit: "cover" }} />
+            <img src="./img/DevMesh.png" alt="Image" style={{ width: "100%", height: 213, objectFit: "cover" }} />
             <List>
               <ListItemIcon>
                 <GitHubIcon />
@@ -131,7 +131,7 @@ export const Mobile = (): JSX.Element => {
                 Unity
               </Button>
             </Box>
-            <img src="/img/Portfolio2019.png" alt="Image" style={{ width: "100%", height: 213, objectFit: "cover" }} />
+            <img src="./img/Portfolio2019.png" alt="Image" style={{ width: "100%", height: 213, objectFit: "cover" }} />
             <List>
               <ListItemIcon>
                 <GitHubIcon className="w-10" />
@@ -158,7 +158,7 @@ export const Mobile = (): JSX.Element => {
                 Redux
               </Button>
             </Box>
-            <img src="/img/SocialMediaPlatform.png" alt="Image" style={{ width: "100%", height: 213, objectFit: "cover" }} />
+            <img src="./img/SocialMediaPlatform.png" alt="Image" style={{ width: "100%", height: 213, objectFit: "cover" }} />
             <List>
 
               <ListItemIcon>
@@ -196,25 +196,25 @@ export const Mobile = (): JSX.Element => {
           <Box display="grid" justifyContent="space-between" marginTop={2}>
             <Box display="flex" justifyContent="space-between" marginTop={2}>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/frame-94.svg" />
+                <SkillIcon src="./img/frame-94.svg" />
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   React
                 </Typography>
               </Box>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/frame-94-1.svg" />
+                <SkillIcon src="./img/frame-94-1.svg" />
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   Node.js
                 </Typography>
               </Box>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/express.png" />
+                <SkillIcon src="./img/express.png" />
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   Express
                 </Typography>
               </Box>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/sql.png" />
+                <SkillIcon src="./img/sql.png" />
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   SQL
                 </Typography>
@@ -222,25 +222,25 @@ export const Mobile = (): JSX.Element => {
             </Box>
             <Box display="flex" justifyContent="space-between" marginTop={2}>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/django.png" />
+                <SkillIcon src="./img/django.png" />
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   Django
                 </Typography>
               </Box>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/kubernetes.png" sx={{marginLeft: 5  }}/>
+                <SkillIcon src="./img/kubernetes.png" sx={{marginLeft: 5  }}/>
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   Kubernetes
                 </Typography>
               </Box>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/redux.png"  />
+                <SkillIcon src="./img/redux.png"  />
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   Redux
                 </Typography>
               </Box>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/ci-cd.png" />
+                <SkillIcon src="./img/ci-cd.png" />
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   CI/CD
                 </Typography>
@@ -248,25 +248,25 @@ export const Mobile = (): JSX.Element => {
             </Box>
             <Box display="flex" justifyContent="space-between" marginTop={2}>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/docker.png" />
+                <SkillIcon src="./img/docker.png" />
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   Docker
                 </Typography>
               </Box>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/figma.png" />
+                <SkillIcon src="./img/figma.png" />
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   Figma
                 </Typography>
               </Box>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/bootstrap.png" sx={{ marginLeft: 4 }}/>
+                <SkillIcon src="./img/bootstrap.png" sx={{ marginLeft: 4 }}/>
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   Bootstrap
                 </Typography>
               </Box>
               <Box textAlign="center" className="p-3">
-                <SkillIcon src="/img/gitGithub.png" sx={{marginLeft: 5 }}/>
+                <SkillIcon src="./img/gitGithub.png" sx={{marginLeft: 5 }}/>
                 <Typography variant="h4" sx={{ fontSize: 28, color: "defaultgray-900" }}>
                   Git & Github
                 </Typography>
@@ -275,7 +275,7 @@ export const Mobile = (): JSX.Element => {
           </Box>
         </Box>
         <Box>
-          <img src="/img/hiBrownMale-removebg.png" alt="Mask group" style={{ width: 495, height: 495 }} />
+          <img src="./img/hiBrownMale-removebg.png" alt="Mask group" style={{ width: 495, height: 495 }} />
         </Box>
       </Box>
       <Box component="footer" sx={{ backgroundColor: "defaultgray-900", padding: "20px 0", borderRadius: "48px 48px 0 0", boxShadow: "shadow-xl" }}>
@@ -303,8 +303,8 @@ export const Mobile = (): JSX.Element => {
               </Box>
             </Box>
             <Box sx={{ position: "relative", width: 474, height: 452, backgroundColor: "#1100001a", borderRadius: 2, overflow: "hidden" }}>
-              <img src="/img/rectangle.png" alt="Rectangle" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
-              <img src="/img/image-9.png" alt="Image" style={{ width: "100%", height: "100%", objectFit: "cover", position: "absolute", top: 0, left: 0 }} />
+              <img src="./img/rectangle.png" alt="Rectangle" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+              <img src="./img/image-9.png" alt="Image" style={{ width: "100%", height: "100%", objectFit: "cover", position: "absolute", top: 0, left: 0 }} />
             </Box>
           </Box>
           <Box display="flex" justifyContent="center" alignItems="center" gap={1} marginTop={4}>
@@ -318,7 +318,7 @@ export const Mobile = (): JSX.Element => {
               <Typography variant="body2" sx={{ color: "defaultwhite" }}>
                 Design by
               </Typography>
-              <img src="/img/rafo-logo-1.svg" alt="Rafo logo" style={{ width: 44, height: 30 }} />
+              <img src="./img/rafo-logo-1.svg" alt="Rafo logo" style={{ width: 44, height: 30 }} />
             </Box>
           </Box>
         </Container>

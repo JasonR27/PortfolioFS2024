@@ -5,7 +5,7 @@ const TypingEffect = () => {
   const [placeholder, setPlaceholder] = useState('');
 
   useEffect(() => {
-    const text = 'I have lots of projects you can look up in my github... Feel free to visit me there...';
+    const text = 'I have lots of projects you can look up in my github, JasonR27... Feel free to visit me there...';
     let i = 0;
     const typingEffect = setInterval(() => {
       if (i < text.length) {

@@ -27305,7 +27305,7 @@ const Mobile = ()=>{
                         alignItems: "center",
                         children: [
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                src: "/img/image.svg",
+                                src: "./img/image.svg",
                                 alt: "Img",
                                 style: {
                                     width: 16,
@@ -27344,7 +27344,7 @@ const Mobile = ()=>{
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(GradientBox, {
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _material.Avatar), {
-                        src: "/img/brownDude.png",
+                        src: "./img/brownDude.png",
                         sx: {
                             width: 115,
                             height: 115,
@@ -27506,7 +27506,7 @@ const Mobile = ()=>{
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                    src: "/img/DevMesh.png",
+                                    src: "./img/DevMesh.png",
                                     alt: "Image",
                                     style: {
                                         width: "100%",
@@ -27625,7 +27625,7 @@ const Mobile = ()=>{
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                        src: "/img/Portfolio2019.png",
+                                        src: "./img/Portfolio2019.png",
                                         alt: "Image",
                                         style: {
                                             width: "100%",
@@ -27751,7 +27751,7 @@ const Mobile = ()=>{
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                    src: "/img/SocialMediaPlatform.png",
+                                    src: "./img/SocialMediaPlatform.png",
                                     alt: "Image",
                                     style: {
                                         width: "100%",
@@ -27901,7 +27901,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/frame-94.svg"
+                                                        src: "./img/frame-94.svg"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Mobile/Mobile.tsx",
                                                         lineNumber: 199,
@@ -27930,7 +27930,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/frame-94-1.svg"
+                                                        src: "./img/frame-94-1.svg"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Mobile/Mobile.tsx",
                                                         lineNumber: 205,
@@ -27959,7 +27959,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/express.png"
+                                                        src: "./img/express.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Mobile/Mobile.tsx",
                                                         lineNumber: 211,
@@ -27988,7 +27988,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/sql.png"
+                                                        src: "./img/sql.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Mobile/Mobile.tsx",
                                                         lineNumber: 217,
@@ -28028,7 +28028,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/django.png"
+                                                        src: "./img/django.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Mobile/Mobile.tsx",
                                                         lineNumber: 225,
@@ -28057,7 +28057,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/kubernetes.png",
+                                                        src: "./img/kubernetes.png",
                                                         sx: {
                                                             marginLeft: 5
                                                         }
@@ -28089,7 +28089,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/redux.png"
+                                                        src: "./img/redux.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Mobile/Mobile.tsx",
                                                         lineNumber: 237,
@@ -28118,7 +28118,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/ci-cd.png"
+                                                        src: "./img/ci-cd.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Mobile/Mobile.tsx",
                                                         lineNumber: 243,
@@ -28158,7 +28158,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/docker.png"
+                                                        src: "./img/docker.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Mobile/Mobile.tsx",
                                                         lineNumber: 251,
@@ -28187,7 +28187,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/figma.png"
+                                                        src: "./img/figma.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Mobile/Mobile.tsx",
                                                         lineNumber: 257,
@@ -28216,7 +28216,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/bootstrap.png",
+                                                        src: "./img/bootstrap.png",
                                                         sx: {
                                                             marginLeft: 4
                                                         }
@@ -28248,7 +28248,7 @@ const Mobile = ()=>{
                                                 className: "p-3",
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SkillIcon, {
-                                                        src: "/img/gitGithub.png",
+                                                        src: "./img/gitGithub.png",
                                                         sx: {
                                                             marginLeft: 5
                                                         }
@@ -28295,7 +28295,7 @@ const Mobile = ()=>{
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _material.Box), {
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            src: "/img/hiBrownMale-removebg.png",
+                            src: "./img/hiBrownMale-removebg.png",
                             alt: "Mask group",
                             style: {
                                 width: 495,
@@ -28453,7 +28453,7 @@ const Mobile = ()=>{
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                            src: "/img/rectangle.png",
+                                            src: "./img/rectangle.png",
                                             alt: "Rectangle",
                                             style: {
                                                 width: "100%",
@@ -28466,7 +28466,7 @@ const Mobile = ()=>{
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                            src: "/img/image-9.png",
+                                            src: "./img/image-9.png",
                                             alt: "Image",
                                             style: {
                                                 width: "100%",
@@ -28539,7 +28539,7 @@ const Mobile = ()=>{
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                            src: "/img/rafo-logo-1.svg",
+                                            src: "./img/rafo-logo-1.svg",
                                             alt: "Rafo logo",
                                             style: {
                                                 width: 44,
